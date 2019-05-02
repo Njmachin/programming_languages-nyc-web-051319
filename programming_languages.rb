@@ -5,5 +5,7 @@ def reformat_languages(lang)
     type.each do |x, y|
       if new_hash == nil
         new_hash[x] = y
+      end
+      
   
 end
