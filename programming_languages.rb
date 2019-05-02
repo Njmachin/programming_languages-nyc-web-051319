@@ -6,6 +6,7 @@ def reformat_languages(lang)
       if new_hash == nil
         new_hash[x] = y
       end
+      new_hash[x] = []
       
   
 end
